@@ -3,4 +3,4 @@
 
 netlify link
 
-https://60f6bc380e82c3dccc7538dd--youthful-goldwasser-6f25fb.netlify.app/
+https://60f6f4d19fcaa72558fd3426--kind-jackson-878aed.netlify.app/
